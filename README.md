@@ -1,3 +1,5 @@
+![](read-me.gif)
+
 <h1 align="center">Hi 👋, I'm Simay</h1>
 <h3 align="center">A computer engineer from Turkey</h3>
 
